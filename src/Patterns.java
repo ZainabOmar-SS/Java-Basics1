@@ -1,3 +1,4 @@
+//Write a Java program that prints out the following patterns using loops:
 public class Patterns {
     public static void main(String[] args) {
         int rows1 = 4;
